@@ -10,8 +10,8 @@ body{
     text-align: center;
 }
 img {
-    width: 100%;
-    height: auto;
+    width: 30%;
+    height: 80%;
     object-fit: contain;
     margin: 10px;
 }
